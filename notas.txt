@@ -1,0 +1,17 @@
+/*********
+//las clases que vamos a cargar 
+"autoload":{},
+//todos los paquetes de terceros que vamos a utilizar.
+"require":{}
+
+
+*descargamos composer desde la pagina y lo hacemos como descarga manual esto descargara 
+*composer.phar y lo colocamos en la carpeta del proyecto.
+
+*para poder usar composer hay que instalarlo dentro de la carpeta del proyecto
+*y este nos ayudara despues instalar paquetes de terceros, esto lo hacemos de
+*la siguiente forma: "php composer.phar install"
+*esto nos generara una archio vendor, que contiene el autoload.php
+**********************/
+
+
